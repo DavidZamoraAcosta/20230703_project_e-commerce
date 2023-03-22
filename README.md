@@ -1,4 +1,4 @@
-# 20230703_project_e-commerce
+# Olist Performance 2016 - 2018.
 Análise dos dados de vendas do Olist entre o 4Q 2016 e o 4Q 2018 usando SQL e Tableau.
 
 Os dados de vendas disponíveis no Olist foram explorados e limpos usando Postgres SQL, enquanto alguns insights foram obtidos consultando o banco de dados com as funções 'Join Tables', 'Subqueries', 'Aggregations' e 'Cross Tables'. A seguir estão alguns exemplos das consultas
@@ -31,6 +31,6 @@ Depois de analisar rapidamente as informações, fiz um Dashboard usando o Table
 
 ![image](https://user-images.githubusercontent.com/105822236/226765697-453f0fe8-f5db-439f-b2ad-64b7e8f4fb95.png)
 
-![image](https://user-images.githubusercontent.com/105822236/226766767-e38a9bcb-cafb-4246-b545-f106fb7ca549.png)
+![image](https://user-images.githubusercontent.com/105822236/226769783-61edfbab-28ca-45c0-892a-19d029d2452d.png)
 
 Link Tableau: https://public.tableau.com/views/Olist_E-Commerce/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
